@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Darawsheh</h1>
-<h3 align="center">A passionate mobile developer and a Third-year Computer Science student at Hashemite University</h3>
+<h3 align="center">A passionate mobile developer and a Fourth-year Computer Science student at Hashemite University</h3>
 
 - 🌱 **Flutter, Problem Solving, BLoC, Clean Architecture, MVVM, APIs, Firebase**
 
